@@ -15,4 +15,4 @@
 | [产业链与竞争](industry-report.md#value-chain) | 找到后续硬件、模型和应用研究的位置 |
 | [主要矛盾](industry-report.md#bottlenecks) | 从技术能力追踪到客户扩点复购 |
 
-模型与训练的详细分析见[模型模块](../02_models/README.md)。后续[硬件](../01_hardware/README.md)及[应用](../03_applications/README.md)专题形成结论后，本模块只吸收会改变总体判断的内容。
+模型与训练的详细分析见[模型模块](../02_models/README.md)；上游采购分工已有[协作厂商供臂专题](../01_hardware/arms-and-oem-sourcing.md)。后续[硬件](../01_hardware/README.md)及[应用](../03_applications/README.md)专题形成结论后，本模块只吸收会改变总体判断的内容。
