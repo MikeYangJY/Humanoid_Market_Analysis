@@ -11,7 +11,7 @@
 | 模块 | 核心问题 | 当前内容 | 状态 |
 |---|---|---|---|
 | [00 行业总览](00_overview/README.md) | 行业到哪了，需求和约束是什么？ | [完整行业报告](00_overview/industry-report.md)：阶段、场景、市场空间、产业链与商业验证 | 已有报告 |
-| [01 上游硬件](01_hardware/README.md) | 哪些部件决定能力、寿命和批量交付，OEM如何采购？ | [协作厂商供臂逻辑](01_hardware/arms-and-oem-sourcing.md)；其他部件研究提纲 | 已有供臂专题，其他方向待开展 |
+| [01 上游硬件](01_hardware/README.md) | 哪些部件决定能力、寿命和批量交付，OEM如何采购？ | [协作厂商供臂逻辑](01_hardware/arms-and-oem-sourcing.md)；[机械臂六维选型](01_hardware/arm-capability-and-selection.md)；其他部件研究提纲 | 已有供臂专题与选型框架，其他方向待开展 |
 | [02 模型与控制](02_models/README.md) | 智能能力如何形成，能否减少适配与接管？ | [完整模型报告](02_models/model-report.md)：PI、Figure、DeepMind 主线及竞争参照 | 已有报告 |
 | [03 下游应用](03_applications/README.md) | 哪些任务有人购买、能够验收和复制？ | 制造、物流、商业服务、家庭及科研用途的研究提纲 | 待开展专题 |
 | [04 持续跟踪](04_tracking/README.md) | 哪些新证据足以改变判断？ | 指标定义、证据缺口和待验证问题 | 已建立框架，持续补证 |
@@ -41,6 +41,7 @@ flowchart LR
 | 出货增长是否意味着生产用途已经成熟？ | [行业阶段](00_overview/industry-report.md#lifecycle) |
 | 双足、轮式、夹爪和灵巧手如何取舍？ | [系统前提](00_overview/industry-report.md#technology) → [硬件研究提纲](01_hardware/README.md) |
 | 协作厂商如何获得人形整机增长带来的订单？ | [OEM采购路径](01_hardware/arms-and-oem-sourcing.md#sourcing) → [需求传导与统计口径](01_hardware/arms-and-oem-sourcing.md#demand) |
+| 机械臂该看哪些能力，怎样匹配任务和采购需求？ | [六维能力框架](01_hardware/arm-capability-and-selection.md#framework) → [场景优先级](01_hardware/arm-capability-and-selection.md#scenarios) → [采购含义](01_hardware/arm-capability-and-selection.md#sourcing-implications) |
 | PI、Figure、DeepMind 分别在解决什么？ | [模型演进](02_models/model-report.md#evolution) → [路线比较](02_models/model-report.md#comparison) |
 | 为什么不能直接给三家成功率排名？ | [能力证据与六维比较](02_models/model-report.md#evidence) |
 | 人类视频、真机数据、仿真与经验学习如何分工？ | [模型技术路线](02_models/model-report.md#technology) |
