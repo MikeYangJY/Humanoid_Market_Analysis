@@ -2,7 +2,7 @@
 
 [研究首页](../README.md) · [研究方法](../research-method.md)
 
-本页汇总报告与专题已引用的公开来源，当前资料基准为2026-09-27；索引更新于2026-09-28。具体数值、发布时期、证据性质及适用限制保留在对应正文；本页不把企业声明提升为独立验证，也不表示来源的全部内容均被采用。
+本页汇总报告与专题已引用的公开来源，既有行业及供货资料基准为2026-09-27，新增机械臂基础技术资料核对于2026-09-29；索引更新于2026-09-29。具体数值、发布时期、证据性质及适用限制保留在对应正文；本页不把企业声明提升为独立验证，也不表示来源的全部内容均被采用。
 
 来源日期与核对日期可能不同。后续新增数据按[证据记录模板](../templates/evidence-record.md)保存；如旧页面更新，重要历史结论应记录所用版本或公告日期。
 
@@ -50,3 +50,6 @@
 | S040 | [天机：与中科慧灵合作及首批Marvin机械臂交付（2025-10-17）](https://www.gentorobotics.ai/news/tianji-humanoid-arm-secures-strategic-order/) | 上游硬件 |
 | S041 | [珞石：获得智元优秀供应商伙伴奖（2026-04-24）](https://www.rokae.com/cn/news/show/2467/%E7%8F%9E%E7%9F%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8D%A3%E8%8E%B7%E6%99%BA%E5%85%83%E2%80%9C%E4%BC%98%E7%A7%80%E4%BE%9B%E5%BA%94%E5%95%86%E4%BC%99%E4%BC%B4%E2%80%9D%E5%A5%96.html) | 上游硬件 |
 | S042 | [UR与Scale AI：AI Trainer与同步训练数据采集（2026-03-16）](https://www.universal-robots.com/news-and-media/news-center/universal-robots-scale-ai-launch-imitation-learning-system-accelerate-ai-training-lab-to-factory/) | 上游硬件、模型与控制 |
+| S043 | [Modern Robotics 5.3：运动冗余与奇异](https://modernrobotics.northwestern.edu/nu-gm-book-resource/5-3-singularities/) | 上游硬件；基础概念，非产品实测 |
+| S044 | [Modern Robotics 11.6：力位混合控制](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-6-hybrid-motion-force-control/) | 上游硬件；控制原理，非任务成功率证据 |
+| S045 | [Franka FCI：libfranka接口概览](https://frankarobotics.github.io/docs/doc/libfranka/docs/overview.html) | 上游硬件、模型与控制；厂商文档，需匹配产品及版本 |
